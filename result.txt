@@ -1,0 +1,4 @@
+Maths 100
+english 100
+Python 100
+DS 100
